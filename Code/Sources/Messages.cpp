@@ -1,4 +1,4 @@
-#include "Messages.h"
+#include "../Headers/Messages.h"
 
 Messages::Messages() {
     aboutBox = new QMessageBox;

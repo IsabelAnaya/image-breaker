@@ -1,4 +1,4 @@
-#include <PreferenceDialog.h>
+#include "../Headers/PreferenceDialog.h"
 #include <fstream>
 #include <iostream>
 #include <QPushButton>

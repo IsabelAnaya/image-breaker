@@ -1,7 +1,7 @@
-#include "mainwidget.h"
-#include "Breaker.h"
-#include "MainWindow.h"
-#include "Messages.h"
+//#include "mainwidget.h"
+#include "../Headers/Breaker.h"
+#include "../Headers/MainWindow.h"
+#include "../Headers/Messages.h"
 #include <iostream>
 #include <fstream>
 #include <QFileDialog>

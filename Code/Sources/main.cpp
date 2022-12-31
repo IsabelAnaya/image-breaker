@@ -1,5 +1,5 @@
-#include "MainWindow.h"
-#include "Messages.h"
+#include "../Headers/MainWindow.h"
+#include "../Headers/Messages.h"
 
 #include <QApplication>
 
